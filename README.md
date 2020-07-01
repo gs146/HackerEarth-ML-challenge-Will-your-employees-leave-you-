@@ -1,4 +1,4 @@
-# HackerEarth-ML-challenge-Will-your-employees-leave-you-
+# HackerEarth ML challenge: Will your employees leave you?
 # Leaderboard Rank: 5/5100+
 Two problems were there in the challenge: 
 1. Predict the employee attrition rate.
